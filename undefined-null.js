@@ -1,8 +1,8 @@
 /* 
 For undefined ------------
-=> variable value not assigned
-=> function but didn't write return anything
-=> just wrote return but didn't reture anything
+=> variable value not assigned (variable declare kora holeo man set kora hoy nai )
+=> function but didn't write return anything (function kicu return kore nai)
+=> just wrote return but didn't reture anything (return lekha hoice, but kicu return kore hoy nai)
 => parameter that isn't passed (parameter pass kora hoini )
 => property that doesn't exist in an object (object er bitore property nai)
 => accessing array element out of range (range er baire array er kono upadan ke access kora)
