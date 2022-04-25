@@ -3,7 +3,7 @@
  => false
  => 0
  => empty string
- => undifined
+ => undefined
  => null
  => NaN
 ---------------
